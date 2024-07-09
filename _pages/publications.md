@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: left;">
-    <h1 style="font-size: 2.5em;">Selected papers</h1>
+    <h1 style="font-size: 1.5em;">Selected papers</h1>
 </div>
 
 ## What is the Feeling of Effort About? (preprint)
@@ -68,14 +68,14 @@ Philosophical Explorations, 2018
 In line with recent efforts to empirically study the folk concept of weakness of will, we examine two issues in this paper: (1) How is weakness of will attribution [WWA] influenced by an agent’s violations of best judgment and/or resolution, and by the moral valence of the agent’s action? (2) Do any of these influences depend on the cognitive dispositions of the judging individual? We implemented a factorial 2x2x2 between–subjects design with judgment violation, resolution violation, and action valence as independent variables, and measured participants’ cognitive dispositions using Frederick’s Cognitive Reflection Test [CRT]. We conclude that intuitive and reflective individuals have two different concepts of weakness of will. The study supports this claim by showing that: a) the WWA of intuitive subjects is influenced by the action’s (and probably also the commitment’s) moral valence, while the WWA of reflective subjects is not; b) judgment violation plays a small role in the WWA of intuitive subjects, while reflective subjects treat resolution violation as the only relevant trait. Data were collected among students at two different universities. All subjects (N=710) answered the CRT. A three-way ANOVA was first conducted on the whole sample and then on the intuitive and reflective groups separately. This study suggests that differences in cognitive dispositions can significantly impact the folk understanding of philosophical concepts, and thus suggests that analysis of folk concepts should take cognitive dispositions into account.
 
 <div style="text-align: left;">
-    <h1 style="font-size: 2.5em;">Journal issue</h1>
+    <h1 style="font-size: 1.5em;">Journal issue</h1>
 </div>
 
 ## Habitual Action, Automaticity, and Control
 Special issue for the journal Topoi, edited with Flavia Felletti. (introduction to the issue)
 
 <div style="text-align: left;">
-    <h1 style="font-size: 2.5em;">Book chapters</h1>
+    <h1 style="font-size: 1.5em;">Book chapters</h1>
 </div>
 
 ## Remembering as a mental action — with Santiago Arango (preprint)
@@ -88,7 +88,7 @@ Social Media and Your Brain (Praeger, 2016)
 Self-control, the capacity to resist temptations and pursue longer-term goals over immediate gratifications, is crucial in determining the overall shape of our lives, and thereby in our ability to shape our identities. As it turns out, this capacity is intimately linked with our ability to control the direction of our attention. This raises the worry that perhaps social media are making us more easily distracted people, and therefore less able to exercise self-control. Is this so? And is it necessarily a bad thing? This paper analyzes the nature of attention, its vices and virtues, and what currently available evidence has to say about the effects of social media on attention and self-control. The pattern that seems to be emerging is that, although there is an association between higher use of social media and lower attentional control, we do not yet know whether it is social media use that makes people more distracted, or whether those who use social media the most do so because they are more easily distracted. Either way, the rise of the ‘Web 2.0’ does raise questions about whether the virtues of attention will change in the future, and whether this will bring with it a transformation in the way we shape our selves.
 
 <div style="text-align: left;">
-    <h1 style="font-size: 2.5em;">Works in progress / Under review</h1>
+    <h1 style="font-size: 1.5em;">Works in progress / Under review</h1>
 </div>
 
 A taxonomy of algorithmic mental harms
