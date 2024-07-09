@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Self-Control in Context"
+title: ""
 permalink: /scc/
 author_profile: true
 
@@ -10,6 +10,10 @@ author_profile: true
 
 <div style="text-align: center;">
     <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/mural.jpg" alt="Illustration" style="width:700px;">
+</div>
+
+<div style="text-align: center;">
+    <p style="font-size: 0.8em;">Mural ‘Río de la vida’, barrio El Puente, Bogotá. (Imagen: Lokman Ílhan – Agencia Anadolu)</p>
 </div>
 
 <div style="text-align: center;">
@@ -33,19 +37,23 @@ The Team
 Project leader: 
 Juan Pablo Bermúdez (Externado & Imperial College London)
 Project co-leader: 
-Chandra Sripada (Michigan)
+[Chandra Sripada](https://sites.lsa.umich.edu/sripada/) (Michigan)
 Lead scientific analyst: 
-William Jiménez-Leal (Andes)
+[William Jiménez-Leal](https://cienciassociales.uniandes.edu.co/psicologia/profesores/william-jimenez-leal/) (Andes)
 Scientific advisors: 
-Santiago Amaya (Andes)
-Michael Inzlicht (Toronto)
-Jennifer Morton (Penn)
+[Santiago Amaya](https://cienciassociales.uniandes.edu.co/filosofia/profesores/santiago-amaya/) (Andes)
+[Michael Inzlicht](https://michaelinzlicht.com/) (Toronto)
+[Jennifer Morton] (https://jennifermmorton.com/) (Penn)
 Research assistants:
 Gino Carmona (Externado)
 María Alejandra Grisales (Externado)
 
-We just hosted the Self-Control in Context Summer School (Jul.31–Aug.4, 2023), designed to foster the community of young researchers in self-control and related topics across North and South America. It was a wonderful experience and a huge contribution to the project—thank you to everyone involved!!! You can find a news article about it (in Spanish) here.
+We just hosted [the Self-Control in Context Summer School] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static1.squarespace.com/static/5d0464f9593c9200019d00ad/t/641b431630e0734258a70ef8/1679508247444/SCC+call+for+applicants.pdf) (Jul.31–Aug.4, 2023), designed to foster the community of young researchers in self-control and related topics across North and South America. It was a wonderful experience and a huge contribution to the project—thank you to everyone involved!!! You can find a news article about it (in Spanish) [here](https://www.uexternado.edu.co/ciencias-sociales-y-humanas/autocontrol-en-contexto-un-proyecto-conjunto-entre-la-facultad-de-ciencias-sociales-y-humanas-del-externado-y-la-john-templeton-foundation/).
 
 <div style="text-align: center;">
-    <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/grupol.jpg" alt="Illustration" style="width:700px;">
+    <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/grupo.jpg" alt="Illustration2" style="width:700px;">
+</div>
+
+<div style="text-align: center;">
+    <p style="font-size: 0.8em;">Participants and (some of the) instructors of the Self-Control in Context summer school in Bogotá, Colombia.</p>
 </div>
