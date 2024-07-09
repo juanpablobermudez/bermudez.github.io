@@ -39,6 +39,9 @@ redirect_from:
         <p>
             When I’m not doing philosophy I try to run 5k as fast as I can. I also love bike touring with my wife Ade, hiking up and down mountains and occasionally making music. (In the photo you can see the Neuchâtel lake behind the Jura mountains, which I hiked and biked around while being a postdoc there.)
         </p>
+
+        <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 400px;">
+        
     </div>
     
     <div style="flex: 1; background-color: #f0f0f0; padding: 20px; margin-left: auto;">
@@ -58,7 +61,4 @@ redirect_from:
     </div>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-    <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 700px;">
     
-</div>
