@@ -43,7 +43,6 @@ redirect_from:
         <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 400px;">
         
     </div>
-    
     <div style="flex: 1; background-color: #f0f0f0; padding: 20px; margin-left: auto;">
         <h2>News and Updates</h2>
         
@@ -57,6 +56,7 @@ redirect_from:
             <li> November 2023 - I was named Research Associate at Technical University Hamburg’s Institute for Ethics in Technology.</li>
             <li> September 2023 - The news outlet Euractiv published an op-ed on our proposal to define ‘subliminal techniques’ for the EU AI Act.</li>
             <li> July 2023 - The interdisciplinary Self-Control in Context Summer School at Externado University (Bogotá) was a wonderful experience and a great success. Thanks to everyone who took part!</li>
+            <li>[More news](https://juanpablobermudez.github.io/bermudez.github.io/more_news/)</li>
         </ul>
     </div>
 </div>
