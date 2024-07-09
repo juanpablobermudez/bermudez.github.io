@@ -23,7 +23,7 @@ redirect_from:
         
         <ul>
             <li> December 2023 - My research on the skill of self-control was discussed at <a href="https://www.washingtonpost.com/wellness/2023/12/21/habit-formation-practice-tips-brain/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzAzMzA3NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzA0Njg5OTk5LCJpYXQiOjE3MDMzMDc2MDAsImp0aSI6IjI4NDRlMzE5LTNkZmUtNGE1NC1iYWVkLTdlMDhjYWE3YTMxNCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWxsbmVzcy8yMDIzLzEyLzIxL2hhYml0LWZvcm1hdGlvbi1wcmFjdGljZS10aXBzLWJyYWluLyJ9.xZu6VpoahmF5byZQghX3W__WawSHvtwiMXEXoOP0F5g" target="_blank"> a Washington Post article on new years resolutions! </a> </li>
-            <li> November 2023 - I was named Research Associate at Technical University Hamburg’s <a href="https://www.tuhh.de/ethics/team" target="_blank"> Institute for Ethics in Technology.</li>
+            <li> November 2023 - I was named Research Associate at Technical University Hamburg’s <a href="https://www.tuhh.de/ethics/team" target="_blank"> Institute for Ethics in Technology</a>.</li>
             <li> September 2023 - The news outlet Euractiv published an op-ed on our proposal to define ‘subliminal techniques’ for the EU AI Act.</li>
             <li> July 2023 - The interdisciplinary Self-Control in Context Summer School at Externado University (Bogotá) was a wonderful experience and a great success. Thanks to everyone who took part! </a> </li>
             <li> May 2023 - The paper “Temptation and apathy”, coauthored with S. Berthelette, G. Fernández, A. Anaya and D. Rodríguez, is forthcoming at Oxford Studies in Agency and Responsibility!</li>
