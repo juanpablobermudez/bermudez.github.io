@@ -23,4 +23,6 @@ I have recently become editor of the wonderful Diversity Reading List for the �
 
 When I’m not doing philosophy I try to run 5k as fast as I can. I also love bike touring with my wife Ade, hiking up and down mountains and occasionally making music. (In the photo you can see the Neuchâtel lake behind the Jura mountains, which I hiked and biked around while being a postdoc there.) 
 
-![Illustration](/images/montanitas.jpg)
+<div style="text-align: center;">
+    <img src="/images/montanitas.jpg" alt="Illustration" style="width:700px;">
+</div>
