@@ -48,14 +48,15 @@ redirect_from:
         
         <h2>2021</h2>
         
-        <a href="..." target="_blank"> ... </a>
-
          <ul>
             <li> September 2021 - I gave my talk “What is the feeling of effort about?” at the University of Geneva’s Thumos group.</li>
             <li> July 2021 - The paper "What's inside is all that counts? The contours of everyday thinking about self-control", cowritten with S. Murray, L. Chartrand, and S. Barbosa, was just accepted for publication at Review of Philosophy and Psychology! Preprint <a href="https://philpapers.org/rec/BERWII-3" target="_blank"> here</a>.</li>
             <li> June 2021 - The Topoi special issue 'Habitual Action, Automaticity and Control' I edited with F. Felletti was published! See our introduction to the issue <a href="https://link.springer.com/article/10.1007/s11245-021-09754-1" target="_blank">here</a>.</li>
             <li> May 2021 - The paper 'Perceiving utilitarian gradients: heart rate variability and self-regulatory effort in the moral dilemma task' (coauthored with A. Rosas, J. Martínez, D. Aguilar, J. Caicedo and D.M. Aponte) was just accepted by Social Neuroscience! Preprint <a href="https://www.researchgate.net/directory/publications" target="_blank"> here</a>.</li>
             <li> April 2021 - Striving and Doing, a workshop on effort and action, took place April 21–23. We had talks by amazing guests and wonderful discussion sessions. The workshop was organized by Olivier Massin and me. You can find abstracts and videos of all the talks here.</li>
+            
+            <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/striving.jpg" alt="Illustration" style="width: 300px;">
+
             <li> February 2021- The paper “Intentional mind-wandering as intentional omission: The surrealist method” (coauthored with <a href="https://philpeople.org/profiles/santiago-arango-munoz" target="_blank"> S. Arango</a>) has been accepted for publication at Synthese. <a href="https://link.springer.com/article/10.1007/s11229-021-03135-2" target="_blank">here</a></li>
             <li>January 2021 - My paper “The skill of self-control” has been accepted for publication at Synthese <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://link.springer.com/content/pdf/10.1007/s11229-021-03068-w.pdf" target="_blank">here</a>.</li>
         </ul>
