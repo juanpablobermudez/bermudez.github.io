@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-
 **[Most people say self-control is the same as willpower. Researchers disagree](https://www.sciencenews.org/article/self-control-willpower-psychology):** This _New Scientist_ piece discusses our collaborative work on folk vs scientific conceptions of self-control and willpower. 
 
 **[How to help your brain form healthy habits and break the bad ones](https://www.washingtonpost.com/wellness/2023/12/21/habit-formation-practice-tips-brain/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzAzMzA3NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzA0Njg5OTk5LCJpYXQiOjE3MDMzMDc2MDAsImp0aSI6IjI4NDRlMzE5LTNkZmUtNGE1NC1iYWVkLTdlMDhjYWE3YTMxNCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWxsbmVzcy8yMDIzLzEyLzIxL2hhYml0LWZvcm1hdGlvbi1wcmFjdGljZS10aXBzLWJyYWluLyJ9.xZu6VpoahmF5byZQghX3W__WawSHvtwiMXEXoOP0F5g):** (_Washington Post_) An article discussing my work on the skill of self-control and how to form healthy habits.
