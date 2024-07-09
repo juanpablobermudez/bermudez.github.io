@@ -8,10 +8,11 @@ redirect_from:
 
 ---
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
+
     <div style="flex: 2; padding-right: 20px;">
         <h1>About Me</h1>
-        
+                
         <p>
             I am a philosopher and cognitive scientist working on the issue of control: How do we exert control over our actions? What are the limits of that control? And what are the ethical and political implications of our limitations, as they intersect with social contexts and new technologies?
         </p>
@@ -41,23 +42,25 @@ redirect_from:
             When I’m not doing philosophy I try to run 5k as fast as I can. I also love bike touring with my wife Ade, hiking up and down mountains and occasionally making music. (In the photo you can see the Neuchâtel lake behind the Jura mountains, which I hiked and biked around while being a postdoc there.)
         </p>
     </div>
-    
-    <div style="flex: 1; background-color: #f0f0f0; padding: 20px; margin-left: auto;">
+
+    <div style="flex: 1; background-color: #f0f0f0; padding: 20px;">
         <h2>News and Updates</h2>
         
         <ul>
-            <li>➤ Also March 2024 - Our project “Inequality, goals and time” (PI William Jiménez) was just granted USD $15.000 in funding by the TREES research grant fund (Uniandes & Ford Foundation)!</li>
-            <li>➤ Also March 2024 - I will be a lecturer in the Ethics of Influence summer school organised by Michael Klenk at TU Delft!</li>
-            <li>➤ March 2024 - I will be co-editing a special issue of Synthese on the philosophy of effort with Malte Hendrickx and Olivier Massin!</li>
-            <li>➤ February 2024 - The paper “The whole is larger than the sum of its parts: additive effects of SMS nudge bundles”, coauthored with S. Barbosa, is out now open access at Frontiers in Communication. My first paper doing some real nudging!</li>
-            <li>➤ January 2024 - Our research on the folk vs. scientific conceptions of self-control was highlighted in a New Scientist article.</li>
-            <li>➤ December 2023 - My research on the skill of self-control was discussed at a Washington Post article on new years resolutions!</li>
-            <li>➤ November 2023 - I was named Research Associate at Technical University Hamburg’s Institute for Ethics in Technology.</li>
-            <li>➤ September 2023 - The news outlet Euractiv published an op-ed on our proposal to define ‘subliminal techniques’ for the EU AI Act.</li>
-            <li>➤ July 2023 - The interdisciplinary Self-Control in Context Summer School at Externado University (Bogotá) was a wonderful experience and a great success. Thanks to everyone who took part!</li>
+            <li> Also March 2024 - Our project “Inequality, goals and time” (PI William Jiménez) was just granted USD $15.000 in funding by the TREES research grant fund (Uniandes & Ford Foundation)!</li>
+            <li> Also March 2024 - I will be a lecturer in the Ethics of Influence summer school organised by Michael Klenk at TU Delft!</li>
+            <li> March 2024 - I will be co-editing a special issue of Synthese on the philosophy of effort with Malte Hendrickx and Olivier Massin!</li>
+            <li> February 2024 - The paper “The whole is larger than the sum of its parts: additive effects of SMS nudge bundles”, coauthored with S. Barbosa, is out now open access at Frontiers in Communication. My first paper doing some real nudging!</li>
+            <li> January 2024 - Our research on the folk vs. scientific conceptions of self-control was highlighted in a New Scientist article.</li>
+            <li> December 2023 - My research on the skill of self-control was discussed at a Washington Post article on new years resolutions!</li>
+            <li> November 2023 - I was named Research Associate at Technical University Hamburg’s Institute for Ethics in Technology.</li>
+            <li> September 2023 - The news outlet Euractiv published an op-ed on our proposal to define ‘subliminal techniques’ for the EU AI Act.</li>
+            <li> July 2023 - The interdisciplinary Self-Control in Context Summer School at Externado University (Bogotá) was a wonderful experience and a great success. Thanks to everyone who took part!</li>
         </ul>
     </div>
-</div>
 
-<div style="text-align: center; margin-top: 20px;">
-    <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 700px;">
+    <div style="flex: 3; text-align: center; margin-top: 20px;">
+        <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="max-width: 100%; height: auto;">
+    </div>
+
+</div>
