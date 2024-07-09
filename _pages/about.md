@@ -8,10 +8,8 @@ redirect_from:
 
 ---
 
-<div style="display: flex; flex-wrap: wrap;">
-
+<div style="display: flex;">
     <div style="flex: 2; padding-right: 20px;">
-        <h1>About Me</h1>
                 
         <p>
             I am a philosopher and cognitive scientist working on the issue of control: How do we exert control over our actions? What are the limits of that control? And what are the ethical and political implications of our limitations, as they intersect with social contexts and new technologies?
@@ -42,8 +40,8 @@ redirect_from:
             When I’m not doing philosophy I try to run 5k as fast as I can. I also love bike touring with my wife Ade, hiking up and down mountains and occasionally making music. (In the photo you can see the Neuchâtel lake behind the Jura mountains, which I hiked and biked around while being a postdoc there.)
         </p>
     </div>
-
-    <div style="flex: 1; background-color: #f0f0f0; padding: 20px;">
+    
+    <div style="flex: 1; background-color: #f0f0f0; padding: 20px; margin-left: auto;">
         <h2>News and Updates</h2>
         
         <ul>
@@ -58,9 +56,9 @@ redirect_from:
             <li> July 2023 - The interdisciplinary Self-Control in Context Summer School at Externado University (Bogotá) was a wonderful experience and a great success. Thanks to everyone who took part!</li>
         </ul>
     </div>
+</div>
 
-    <div style="flex: 3; text-align: center; margin-top: 20px;">
-        <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="max-width: 100%; height: auto;">
-    </div>
-
+<div style="text-align: center; margin-top: 20px;">
+    <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 700px;">
+    
 </div>
