@@ -42,7 +42,7 @@ redirect_from:
         </p>
     </div>
     
-    <div style="flex: 1; background-color: #f0f0f0; padding: 20px;">
+    <div style="flex: 1; background-color: #f0f0f0; padding: 20px; margin-left: auto;">
         <h2>News and Updates</h2>
         
         <ul>
