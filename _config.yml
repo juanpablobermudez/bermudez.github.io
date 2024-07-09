@@ -36,7 +36,6 @@ author:
   PhilPapers       : "https://philpeople.org/profiles/juan-pablo-bermudez"
   orcid            : "https://orcid.org/0000-0001-5239-2980"
   Academia         : "https://imperial.academia.edu/JuanPabloBerm%C3%BAdez"
-  #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Juan-Pablo-Bermudez"
   Spotify          : "https://open.spotify.com/user/juan10010?si=IQq-YcfSTx6OdgrFaGm_9g&nd=1&dlsi=1ca5a5ae2aea4b8c"
 
@@ -44,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  #github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
