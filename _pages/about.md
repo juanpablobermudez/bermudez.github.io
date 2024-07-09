@@ -58,9 +58,7 @@ redirect_from:
             <li> September 2023 - The news outlet Euractiv published an op-ed on our proposal to define ‘subliminal techniques’ for the EU AI Act.</li>
             <li> July 2023 - The interdisciplinary Self-Control in Context Summer School at Externado University (Bogotá) was a wonderful experience and a great success. Thanks to everyone who took part!</li>
         </ul>
-        
-        [More news and updates](https://juanpablobermudez.github.io/bermudez.github.io/more_news/) 
-        
+                
     </div>
 </div>
 
