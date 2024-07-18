@@ -10,13 +10,16 @@ redirect_from:
 
 <div style="display: flex;">
     <div style="flex: 2; padding-right: 20px;">
-                
+
         <p>
             I am a philosopher and cognitive scientist working on the issue of control: How do we exert control over our actions? What are the limits of that control? And what are the ethical and political implications of our limitations, as they intersect with social contexts and new technologies?
         </p>
         
         <p>
-            In August 2024 I will begin as lecturer (= associate professor) at the University of Southampton’s Department of Philosophy. Currently I am Postdoctoral Researcher at TU Delft, Research Associate at the Institute for Ethics in Technology, TU Hamburg, and Researcher at Externado de Colombia University, where I lead the Self-Control in Context project.
+            In August 2024 I will start as lecturer (= assistant professor) at the University of Southampton’s Department of Philosophy. 
+            </p>
+            <p
+            Currently I am Postdoctoral Researcher at TU Delft, Research Associate at the Institute for Ethics in Technology, TU Hamburg, and Researcher at Externado de Colombia University, where I lead the Self-Control in Context project.
         </p>
         
         <p>
@@ -35,9 +38,9 @@ redirect_from:
         <p>
             I have recently become editor of the wonderful Diversity Reading List for the ‘philosophy of action’ and ‘ethics of technology’ categories. I am also Philpapers editor of the ‘trying’ and ‘habit’ categories.
         </p>
-
+    
         <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 450px;">
-
+    
         <p>
             
             When I’m not doing philosophy I try to run 5k as fast as I can. I also love bike touring with my wife Ade, hiking up and down mountains and occasionally making music. (In the photo you can see the Neuchâtel lake behind the Jura mountains, which I hiked and biked around while being a postdoc there.)
@@ -55,7 +58,7 @@ redirect_from:
             <li> February 2024 - The paper “The whole is larger than the sum of its parts: additive effects of SMS nudge bundles”, coauthored with S. Barbosa, is <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1298607/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Communication&id=1298607" target="_blank"> out now open access</a> at Frontiers in Communication. My first paper doing some real nudging!</li>
             <li> January 2024 - Our research on the folk vs. scientific conceptions of self-control was highlighted in a <a href="https://www.sciencenews.org/article/self-control-willpower-psychology" target="_blank"> New Scientist article</a>. </li>
         </ul>
-
+    
         <p style="text-align: center; margin-top: 20px;">
             <a href="https://juanpablobermudez.github.io/bermudez.github.io/more_news/">More news and updates</a>
         </p>
@@ -64,5 +67,5 @@ redirect_from:
 </div>
 
 
-    
-    
+​    
+​    
