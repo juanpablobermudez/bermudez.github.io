@@ -17,8 +17,8 @@ redirect_from:
         
         <p>
             In August 2024 I will start as lecturer (= assistant professor) at the University of Southampton’s Department of Philosophy. 
-            </p>
-            <p
+        </p>
+        <p>
             Currently I am Postdoctoral Researcher at TU Delft, Research Associate at the Institute for Ethics in Technology, TU Hamburg, and Researcher at Externado de Colombia University, where I lead the Self-Control in Context project.
         </p>
         
