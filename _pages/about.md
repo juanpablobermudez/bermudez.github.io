@@ -25,8 +25,8 @@ redirect_from:
         </p>
         
         <ul>
-            <li>Creating tools to design autonomy-supportive artificial intelligence. This involves identifying the ethical boundaries of AI-based influence, building a classification of mental harms, and building tools that developers and designers can use to check whether their AI systems support or hinder human autonomy. I develop this work as postdoctoral researcher at TU Delft’s Digital Ethics Centre.</li>
-            <li>Understanding the link between self-control and poverty in the Global South. Most work on self-control has studied populations in the Global North. What can we learn from the nature of human agency and rationality by studying the skills and strategies people develop in a broader set of contexts? I develop this work as professor of philosophy and leader of the Templeton-funded project Self-Control in Context at Universidad Externado de Colombia.</li>
+            <li>Creating tools to design autonomy-supportive artificial intelligence. This involves identifying the ethical boundaries of AI-based influence, building a classification of mental harms, and building tools that developers and designers can use to check whether their AI systems support or hinder human autonomy.</li>
+            <li>Understanding the link between self-control and poverty in the Global South. Most work on self-control has studied populations in the Global North. What can we learn from the nature of human agency and rationality by studying the skills and strategies people develop in a broader set of contexts? I develop this work by leading the Templeton-funded project Self-Control in Context.</li>
         </ul>
         
         <p>
