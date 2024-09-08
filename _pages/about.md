@@ -50,6 +50,8 @@ redirect_from:
         <h2>News and Updates</h2>
         
         <ul>
+            <li> September 2024 - Our review paper "<a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000927">Believe in Your Self-Control</a>", on the effects of everyday self-control beliefs, co-written with Sam Murray, is out now in Current Opinion in Psychology's excellent <a href="https://www.sciencedirect.com/special-issue/10LN7J01BJK">new issue on self-control and self-regulation</a>!</li>
+            <li> August 2024 - I joined the University of Southampton as Lecturer in Philosophy!!</li>
             <li> Also March 2024 - Our project “Inequality, goals and time” (PI William Jiménez) was just granted USD $15.000 in funding by <a href="https://economia.uniandes.edu.co/noticia/2023/ii-trees-research-grant-fund" target="_blank">the TREES research grant fund</a> (Uniandes & Ford Foundation)!</li>
             <li> Also March 2024 - I will be a lecturer in the <a href="https://www.ozsw.nl/activity/the-ethics-of-influence/" target="_blank"> Ethics of Influence summer school</a> organised by Michael Klenk at TU Delft!</li>
             <li> March 2024 - I will be co-editing a special issue of Synthese on the philosophy of effort with Malte Hendrickx and Olivier Massin!</li>
