@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News"
+title: "More News"
 permalink: /more_news/
 author_profile: true
 redirect_from:
@@ -12,10 +12,6 @@ redirect_from:
         <h2>2024</h2>
         
         <ul>
-            <li> March 2024 - Our project “Inequality, goals and time” (PI William Jiménez) was just granted USD $15.000 in funding by <a href="https://economia.uniandes.edu.co/noticia/2023/ii-trees-research-grant-fund" target="_blank">the TREES research grant fund</a> (Uniandes & Ford Foundation)!</li>
-            <li> March 2024 - I will be a lecturer in the <a href="https://www.ozsw.nl/activity/the-ethics-of-influence/" target="_blank"> Ethics of Influence summer school</a> organised by Michael Klenk at TU Delft!</li>
-            <li> March 2024 - I will be co-editing a special issue of Synthese on the philosophy of effort with Malte Hendrickx and Olivier Massin!</li>
-            <li> February 2024 - The paper “The whole is larger than the sum of its parts: additive effects of SMS nudge bundles”, coauthored with S. Barbosa, is <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2024.1298607/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Communication&id=1298607" target="_blank"> out now open access</a> at Frontiers in Communication. My first paper doing some real nudging!</li>
             <li> January 2024 - Our research on the folk vs. scientific conceptions of self-control was highlighted in a <a href="https://www.sciencenews.org/article/self-control-willpower-psychology" target="_blank"> New Scientist article</a>. </li>
         </ul>
         
