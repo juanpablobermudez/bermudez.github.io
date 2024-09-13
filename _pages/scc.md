@@ -49,9 +49,15 @@ The Team
   - [Michael Inzlicht](https://michaelinzlicht.com/){:target="_blank"} (Toronto)  
   - [Jennifer Morton](https://jennifermmorton.com/){:target="_blank"} (Penn)
 
-- Research assistants:  
-  - Gino Carmona (Externado)  
-  - María Alejandra Grisales (Externado)
+- Visiting Researcher:  
+  - [Jonathan Hall](https://www.ed.ac.uk/profile/jonathan-hall) 
+
+- Research assistants (Externado):  
+  - Gino Carmona 
+  - María Alejandra Grisales
+  - Nicolás Gil Simancas
+  - Juana Ospitia Hernández
+  - Isabella González viatela
 
 We just hosted [the Self-Control in Context Summer School](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static1.squarespace.com/static/5d0464f9593c9200019d00ad/t/641b431630e0734258a70ef8/1679508247444/SCC+call+for+applicants.pdf){:target="_blank"} (Jul.31–Aug.4, 2023), designed to foster the community of young researchers in self-control and related topics across North and South America. It was a wonderful experience and a huge contribution to the project—thank you to everyone involved!!! You can find a news article about it (in Spanish) [here](https://www.uexternado.edu.co/ciencias-sociales-y-humanas/autocontrol-en-contexto-un-proyecto-conjunto-entre-la-facultad-de-ciencias-sociales-y-humanas-del-externado-y-la-john-templeton-foundation/){:target="_blank"}.
 
