@@ -36,7 +36,7 @@ The project will have impact beyond academia by providing insights into how to f
 The Team
 
 - Project leader:  
-  Juan Pablo Bermúdez (Externado & Imperial College London)
+  Juan Pablo Bermúdez (Southampton & Externado)
 
 - Project co-leader:  
   [Chandra Sripada](https://sites.lsa.umich.edu/sripada/){:target="_blank"} (Michigan)
