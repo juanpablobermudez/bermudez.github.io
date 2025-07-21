@@ -47,7 +47,7 @@ redirect_from:
     </div>
     
     <div style="flex: 1; background-color: #f0f0f0; padding: 20px; margin-left: auto;">
-        <h2>News and Updates</h2>
+        <h2>Updates</h2>
         
         <ul>
             <li> September 2024 - Our review paper "<a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000927">Believe in Your Self-Control</a>", on the effects of everyday self-control beliefs, co-written with Sam Murray, is out now in Current Opinion in Psychology's excellent <a href="https://www.sciencedirect.com/special-issue/10LN7J01BJK">new issue on self-control and self-regulation</a>!</li>
@@ -59,7 +59,7 @@ redirect_from:
         </ul>
     
         <p style="text-align: center; margin-top: 20px;">
-            <a href="https://juanpablobermudez.github.io/bermudez.github.io/more_news/">More news and updates</a>
+            <a href="https://juanpablobermudez.github.io/bermudez.github.io/more_news/">More updates</a>
         </p>
         
     </div>
