@@ -37,7 +37,7 @@ redirect_from:
             I have recently become editor of the wonderful Diversity Reading List for the ‘philosophy of action’ and ‘ethics of technology’ categories. I am also Philpapers editor of the ‘trying’ and ‘habit’ categories.
         </p>
     
-        <img src="https://juanpablobermudez.github.io/bermudez.github.io/images/montanitas.jpg" alt="Illustration" style="width: 450px;">
+        <img src="/images/montanitas.jpg" alt="Illustration" style="width: 450px;">
     
         <p>
             
@@ -59,7 +59,7 @@ redirect_from:
         </ul>
     
         <p style="text-align: center; margin-top: 20px;">
-            <a href="https://juanpablobermudez.github.io/bermudez.github.io/more_news/">More updates</a>
+            <a href="/more_news/">More updates</a>
         </p>
         
     </div>
